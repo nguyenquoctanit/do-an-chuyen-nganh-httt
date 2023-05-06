@@ -1,0 +1,16 @@
+RESULT FINAL
+                 all      0.925
+               KoHan      0.995
+            HanThieu      0.978
+             HanThua      0.995
+               DiVat      0.734
+                 Tot      0.994
+          ChatTroHan      0.643
+              BuiChi      0.827
+                 Keo       0.82
+                   1      0.995
+                   2      0.995
+                   3      0.995
+                   4      0.995
+                   5      0.992
+                   6      0.995
